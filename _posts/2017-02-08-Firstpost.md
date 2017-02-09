@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Created Jekyll blog"
 date:   2017-02-08 18:29:49 +0200
 categories: jekyll update
